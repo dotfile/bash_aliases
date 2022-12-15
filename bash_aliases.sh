@@ -13,5 +13,6 @@ DIR=$( cd -P "$( dirname "$SOURCE" )" >/dev/null 2>&1 && pwd )
 
 . "$DIR/command_aliases.sh"
 . "$DIR/directory_shortcuts.sh"
+. "$DIR/typo_fixes.sh"
 
 
